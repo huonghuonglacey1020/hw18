@@ -1,0 +1,7 @@
+{
+    "name": "hw18",
+    "short_name": "hw18",
+    "theme_color": "#FF0000",
+    "start_url": "/",
+    "display": "standalone"
+}
